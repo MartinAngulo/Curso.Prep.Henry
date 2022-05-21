@@ -1,6 +1,6 @@
 // No cambies los nombres de las funciones.
 
-function deObjetoAmatriz(objeto){
+function deObjetoAmatriz(objeto){1
   // Escribe una función que convierta un objeto en una matriz, donde cada elemento representa 
   // un par clave-valor en forma de matriz.
   //Ejemplo: 
